@@ -14,7 +14,7 @@
 
 // func initDataBaseConnection() {
 // 	fmt.Println("Initializing database connection")
-// 	err := mgm.SetDefaultConfig(nil, "kiotapp", options.Client().ApplyURI("mongodb://testUser:Li9uX1To#Testju$ty7*yZLgB4#7*dawolpGbv45yT@52.66.21.237:21007/kiotapp"))
+// 	err := mgm.SetDefaultConfig(nil, "kiotapp", options.Client().ApplyURI(""))
 
 // 	if err == nil {
 // 		fmt.Println("Database connection initialized")
